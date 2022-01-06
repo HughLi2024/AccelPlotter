@@ -1,5 +1,5 @@
 # AccelPlotter
-AccelPlotter is a Python script that plots the acceleration of cars in the mobile racing game Asphalt 9: Legends. The script takes in game footage and analyses the speedometer and timer in the top right corner of the screen. By using OCR technology, the speed and time are recognised and graphed out.
+AccelPlotter is a Python script that plots the acceleration of cars in the mobile racing game Asphalt 9: Legends. The script takes in game footage and analyses the speedometer and timer in the top right corner of the screen. By using OCR technology, the speed and time are recognised and graphed out.  
 Note: Use slowed down game footage to achieve more accurate results. [iGameGod](https://iosgods.com/repo/) is an iOS jailbreak package that can be used to slow down the game
 
 ## Technologies
@@ -38,7 +38,7 @@ To run this script:
 - [Demo2](https://github.com/HughLi2024/accelplotter/tree/main/Demo2) is a the end result of the program by inputting a 1m52s gameplay video. Note that the OCR is unable to accurately determine the speed in all frames. The spreasheet was manually checked and edited. [Demonstration](https://user-images.githubusercontent.com/72953426/148393233-f7643d00-036f-4b40-9b83-3b45c8167977.mov)
 
 ## References
-https://stackoverflow.com/a/33399711
-https://stackoverflow.com/a/63003020
-https://cloud.google.com/vision/docs/ocr
+- https://stackoverflow.com/a/33399711
+- https://stackoverflow.com/a/63003020
+- https://cloud.google.com/vision/docs/ocr
 
